@@ -1,0 +1,3 @@
+this is a test. this file says hello wrold to me
+
+this is another file serving a demo for the fs.readFile()

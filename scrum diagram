@@ -1,1 +1,58 @@
-<mxfile host="app.diagrams.net" modified="2021-04-10T11:55:39.901Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36" version="14.5.10" etag="gQ_C58s6zFefT0H-CAa0" type="github"><diagram id="PLSbHvLOkLAc6dPKkGST">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-04-10T12:03:34.657Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36" etag="yGZPCViO_eP8xGQ1nh58" version="14.5.10" type="github">
+  <diagram id="PLSbHvLOkLAc6dPKkGST" name="Page-1">
+    <mxGraphModel dx="870" dy="1570" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="ADmZJRWbXmqexn_SkaZw-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="ADmZJRWbXmqexn_SkaZw-1" target="ADmZJRWbXmqexn_SkaZw-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ADmZJRWbXmqexn_SkaZw-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ADmZJRWbXmqexn_SkaZw-1" target="ADmZJRWbXmqexn_SkaZw-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ADmZJRWbXmqexn_SkaZw-1" value="select the task to be done" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="30" y="70" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ADmZJRWbXmqexn_SkaZw-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.008;entryY=0.633;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="ADmZJRWbXmqexn_SkaZw-2" target="ADmZJRWbXmqexn_SkaZw-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ADmZJRWbXmqexn_SkaZw-2" value="review the product backlog" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="190" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ADmZJRWbXmqexn_SkaZw-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ADmZJRWbXmqexn_SkaZw-3" target="ADmZJRWbXmqexn_SkaZw-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ADmZJRWbXmqexn_SkaZw-3" value="Select task | plan sprint" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="70" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ADmZJRWbXmqexn_SkaZw-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ADmZJRWbXmqexn_SkaZw-4" target="ADmZJRWbXmqexn_SkaZw-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ADmZJRWbXmqexn_SkaZw-4" value="sprint backlog" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ADmZJRWbXmqexn_SkaZw-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="ADmZJRWbXmqexn_SkaZw-5" target="ADmZJRWbXmqexn_SkaZw-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ADmZJRWbXmqexn_SkaZw-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ADmZJRWbXmqexn_SkaZw-5" target="ADmZJRWbXmqexn_SkaZw-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ADmZJRWbXmqexn_SkaZw-5" value="sprint" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="540" y="100" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ADmZJRWbXmqexn_SkaZw-6" value="potentially shippable software" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="610" y="250" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ADmZJRWbXmqexn_SkaZw-7" value="review the software" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="740" y="100" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ADmZJRWbXmqexn_SkaZw-20" value="Scrum" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="600" y="-10" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ADmZJRWbXmqexn_SkaZw-21" value="Three phases of the scrum methodology :&lt;br&gt;plan the project outline -&amp;gt; software architecture, general objectives of the project&lt;br&gt;plan the sprint cycle -&amp;gt; each sprint brings new increments to the project&lt;br&gt;project closure -&amp;gt; project wrapup involves writing documentation and user manuals" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="40" y="350" width="460" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
